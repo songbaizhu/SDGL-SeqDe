@@ -1,1 +1,1 @@
-# SDGL-SeqDe
+# SDGL-SD
